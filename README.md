@@ -29,10 +29,3 @@ The **LLM Merging Competition** challenges participants to develop efficient tec
 - **2nd Place** in the **LLM Merging Competition** at **NeurIPS 2024 Challenge**
 - Presented our work in a thematic presentation at the event
 
-## How to Use This Repository
-
-(If you have code or other materials, include instructions here for others to set up or use your project.)
-
-## Acknowledgements
-
-This work was guided by my advisors **Prof. Jin Libiao** and **Prof. Tao Zhulin**. Their mentorship and support were invaluable throughout this competition.
