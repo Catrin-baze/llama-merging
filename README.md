@@ -25,7 +25,6 @@ The official Kaggle competition page where the results and code are hosted:
 The merged LLM model that I developed for this competition is hosted on Hugging Face. You can explore and use the model through the following link:
 
 - [Hugging Face Model: llama-refueled-merge](https://huggingface.co/catrinbaze/llama-refueled-merge)
-- 
 ## About the Competition
 
 The **LLM Merging Competition** challenges participants to develop efficient techniques for merging large language models (LLMs). The goal is to improve the performance and efficiency of LLMs by merging different models, creating a more capable and cost-effective solution for future applications in natural language processing.
